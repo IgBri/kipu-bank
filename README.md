@@ -6,7 +6,7 @@ El presente contrato tiene la utilidad de ingresar y extraer fondos por cada usu
 ---
 
 ## 🚀 Instrucciones de despliegue
-El contrato fue desplegado en la **testnet de Sepolia** y verificado en la misma.
+El contrato fue desplegado en la **testnet de Sepolia** y verificado en la misma, bajo el address 0xa6398897ee82eb5c0954780d7a32b1ef5c171b3f.
 
 ---
 
